@@ -27,7 +27,6 @@ int main() {
         }
     }
 
-    printf("Digite o time2:\n");
     scanf(" %[^\n]", nomeTime2);
 
     for (int i = 0; i < 11; i++) {
